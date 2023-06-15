@@ -1,4 +1,4 @@
 add new file
 1 строка
 2 строка
-3
+3 New string
