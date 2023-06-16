@@ -1,5 +1,6 @@
 error
-
 main error
 error
 error from MAIN
+MAIN -error 1
+Main - error 2
